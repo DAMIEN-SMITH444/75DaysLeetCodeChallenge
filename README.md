@@ -19,4 +19,9 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/DAMIEN-SMITH444/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [1250-longest-common-subsequence](https://github.com/DAMIEN-SMITH444/75DaysLeetCodeChallenge/tree/master/1250-longest-common-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1250-longest-common-subsequence](https://github.com/DAMIEN-SMITH444/75DaysLeetCodeChallenge/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
