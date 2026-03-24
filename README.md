@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DAMIEN-SMITH444/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0132-palindrome-partitioning-ii](https://github.com/DAMIEN-SMITH444/75DaysLeetCodeChallenge/tree/master/0132-palindrome-partitioning-ii) |
 | [0242-valid-anagram](https://github.com/DAMIEN-SMITH444/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1250-longest-common-subsequence](https://github.com/DAMIEN-SMITH444/75DaysLeetCodeChallenge/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DAMIEN-SMITH444/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0132-palindrome-partitioning-ii](https://github.com/DAMIEN-SMITH444/75DaysLeetCodeChallenge/tree/master/0132-palindrome-partitioning-ii) |
 | [1250-longest-common-subsequence](https://github.com/DAMIEN-SMITH444/75DaysLeetCodeChallenge/tree/master/1250-longest-common-subsequence) |
 ## Two Pointers
 |  |
