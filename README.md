@@ -27,9 +27,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DAMIEN-SMITH444/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0132-palindrome-partitioning-ii](https://github.com/DAMIEN-SMITH444/75DaysLeetCodeChallenge/tree/master/0132-palindrome-partitioning-ii) |
+| [0338-counting-bits](https://github.com/DAMIEN-SMITH444/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [1250-longest-common-subsequence](https://github.com/DAMIEN-SMITH444/75DaysLeetCodeChallenge/tree/master/1250-longest-common-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DAMIEN-SMITH444/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/DAMIEN-SMITH444/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
